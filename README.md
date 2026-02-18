@@ -10,6 +10,7 @@ E-Learning adalah aplikasi pembelajaran daring interaktif yang memudahkan siswa 
 - 🎯 **Tugas** – Buat dan kerjakan tugas online.
 - 💬 **Forum Diskusi** – Siswa dan pengajar dapat berdiskusi dan bertanya.
 - 🔔 **Notifikasi** – Peringatan otomatis untuk materi baru, tugas, dan kuis.
+
 ---
 
 ## Tampilan 🖥️
@@ -23,6 +24,10 @@ E-Learning adalah aplikasi pembelajaran daring interaktif yang memudahkan siswa 
 ### Halaman Detail Mata Kuliah
 Berisi daftar materi dan tugas dari mata kuliah tersebut.
 ![Halaman Detail Mata Kuliah](https://github.com/user-attachments/assets/07266c03-d142-494d-9107-a74b4223d639)
+
+### Halaman Detail Tugas
+Menampilkan informasi dan detail tugas yang diberikan.
+![Halaman Detail Tugas](https://github.com/user-attachments/assets/4239b6a7-6509-4187-a795-b292ac0e415e)
 
 ### Forum Diskusi
 ![Forum Diskusi](https://github.com/user-attachments/assets/38edd4f5-c3b2-4405-9dd2-02e04b02c9ae)
