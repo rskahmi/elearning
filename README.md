@@ -7,7 +7,7 @@ E-Learning adalah aplikasi pembelajaran daring interaktif yang memudahkan siswa 
 ## Fitur ✨
 
 - 📝 **Materi Pembelajaran** – Unggah dan akses materi dalam format PDF.
-- 🎯 **Kuis & Tugas** – Buat dan kerjakan kuis/tugas online.
+- 🎯 **Tugas** – Buat dan kerjakan tugas online.
 - 💬 **Forum Diskusi** – Siswa dan pengajar dapat berdiskusi dan bertanya.
 - 🔔 **Notifikasi** – Peringatan otomatis untuk materi baru, tugas, dan kuis.
 ---
