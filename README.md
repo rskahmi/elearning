@@ -11,7 +11,8 @@ Fitur ✨
 
 Tampilan 🖥️
 Dashboard
-Ringkasan aktivitas, materi terbaru, dan jadwal kelas.
+<img width="1900" height="905" alt="image" src="https://github.com/user-attachments/assets/2ce3e491-2740-48d7-a763-b92c564e1110" />
+
 
 Halaman Materi
 Navigasi antar bab yang rapi dengan tampilan materi interaktif.
